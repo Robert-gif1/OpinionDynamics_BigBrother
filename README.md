@@ -1,3 +1,2 @@
 # OpinionDynamics BigBrother
-This is my code for my dissertation opinion dynamics project studying voting in reality TV through Big Brother.
-I have a few different models for each of the different iterations I consider during my disertation which each notebook being labelled clearly as to which it refers to.
+This is my code for my dissertation opinion dynamics project studying voting in reality TV through Big Brother. I have a few different models for each of the different iterations I consider during my disertation which each notebook being labelled clearly as to which it refers to. Note that the first voting system is used in our first two seasons as we will run with no friends, which is the same as running with every housemate being friends, for season 1 and then our specific friendships in season 2. Similarly the Friendship vote is used in season 3 and 4 with pushing and hating changed as needed.
